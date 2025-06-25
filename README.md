@@ -11,23 +11,23 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Belal Hossen**, a passionate Full Stack Web Developer with over **3+ years of Laravel and MERN stack** experience.  
-Currently working as a **Senior Developer at [Softexel Technologies](https://softexel.com/)**.
+Hi, I’m **Belal Hossen** — a passionate and results-driven **Senior Full Stack Developer** with **3+ years of experience** in building scalable, modern web applications.
 
-I specialize in building scalable web applications, RESTful APIs, third-party integrations, and real-time features using Laravel, Livewire, Alpine.js, React, Vue, and more. I have experience with both SQL and NoSQL databases, as well as cloud and container deployments.
+Currently, I’m working at [**Softexel Technologies**](https://softexel.com/) where I architect and lead full-stack projects using **Laravel**, **Livewire**, **React**, **Vue.js**, and **Alpine.js**.
 
-I’ve also built and published custom Laravel packages that are used across multiple projects — focusing on clean, reusable, and testable code.
+I specialize in:
+- 🧩 Designing **RESTful APIs** and **OAuth/OpenID** integrations
+- 🛒 Building **e-commerce** and **affiliate platforms**
+- 🧠 Integrating **AI (ChatGPT, Fine-tuning)** into real-world apps
+- 📦 Developing **custom Laravel packages** that are reusable and production-ready
 
-### 🔍 Currently Working On:
+### 🔍 What I’m Currently Working On:
+- 🔗 Integrating **OpenAI/ChatGPT** into Laravel-based apps
+- 💼 Developing a **React-based PTC** earning platform
+- 📊 Planning an **Affiliate Tracking System** with Laravel & React
+- 🧠 Fine-tuning GPT models for a **real estate chatbot**
+- 📦 Publishing **open-source Laravel packages**
 
-- 🔗 Integrating **AI and ChatGPT into Laravel E-commerce**
-- 🌐 Developing a **Next.js-based personal project**
-- 🌐 Developing a **React based ptc website**
-- 🌐 Developing a **Planing to create a affiliate tracking system based on laravel and react**
-- 🏘 Building a **real estate chatbot using laravel and openai Fine tune**
-- 📦 Creating **Laravel packages** to streamline workflows
-
----
 
 <!-- Skills Section with GIFs -->
 
@@ -40,51 +40,98 @@ I’ve also built and published custom Laravel packages that are used across mul
   <td align="center" width="160">
     <img src="./icon/laravel-svgrepo-com.svg" width="50"/><br/>
     <strong>Laravel</strong><br/>
-    REST APIs, Livewire, Sanctum
-  </td>
-  <td align="center" width="160">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/><br/>
-    <strong>React / Next.js</strong><br/>
-    Hooks, SSR, Tailwind
-  </td>
-  <td align="center" width="160">
-    <img src="./icon/vue.png" width="50"/><br/>
-    <strong>Vue.js</strong><br/>
-    SPA, Vite, Axios
-  </td>
-  <td align="center" width="160">
-    <img src="./icon/tailwind-css-logo-png_seeklogo-434090.png" width="50"/><br/>
-    <strong>Tailwind CSS/Bootstrap</strong><br/>
-    Utility-First Styling
-  </td>
-</tr>
-<tr>
-  <td align="center" width="160">
-    <img src="./icon/databasepng.png" width="50"/><br/>
-    <strong>MySQL / MongoDB</strong><br/>
-    Schema Design, Indexing
-  </td>
-  <td align="center" width="160">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/><br/>
-    <strong>JavaScript</strong><br/>
-    ES6+, Alpine.js
+    REST API, Sanctum, Passport
   </td>
   <td align="center" width="160">
     <img src="./icon/livewire.png" width="50"/><br/>
     <strong>Livewire</strong><br/>
-    Laravel Reactive UIs
+    Laravel Reactive UI
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/alpinejs-icon.svg" width="50"/><br/>
+    <strong>Alpine.js</strong><br/>
+    Lightweight JS Components
+  </td>
+  <td align="center" width="160">
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/><br/>
+    <strong>JavaScript</strong><br/>
+    ES6+, Async/Await
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="160">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/><br/>
+    <strong>React.js</strong><br/>
+    Hooks, Components, SPA
+  </td>
+  <td align="center" width="160">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/><br/>
+    <strong>Next.js</strong><br/>
+    SSR, API Routes
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/vue.png" width="50"/><br/>
+    <strong>Vue.js</strong><br/>
+    Composition API, Pinia
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/tailwind-css-logo-png_seeklogo-434090.png" width="50"/><br/>
+    <strong>Tailwind CSS</strong><br/>
+    Utility-First Styling
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="160">
+    <img src="./icon/bootstrap.png" width="50"/><br/>
+    <strong>Bootstrap</strong><br/>
+    Responsive Layouts
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/mysql.png" width="50"/><br/>
+    <strong>MySQL</strong><br/>
+    Joins, Indexing
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/mongodb.svg" width="50"/><br/>
+    <strong>MongoDB</strong><br/>
+    Mongoose, Aggregates
   </td>
   <td align="center" width="160">
     <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/><br/>
     <strong>Node.js / Express</strong><br/>
-    REST APIs, Server-Side Logic
+    Backend APIs
   </td>
 </tr>
+
+<tr>
+  <td align="center" width="160">
+    <img src="./icon/oauth.png" width="50"/><br/>
+    <strong>OAuth / OpenID</strong><br/>
+    Social Login, API Auth
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/stripe.svg" width="50"/><br/>
+    <strong>Stripe</strong><br/>
+    Payment Integration
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/git.svg" width="50"/><br/>
+    <strong>Git / GitHub</strong><br/>
+    Version Control
+  </td>
+  <td align="center" width="160">
+    <img src="./icon/chatgpt-icon.png" width="50"/><br/>
+    <strong>ChatGPT / OpenAI</strong><br/>
+    API, Fine-Tuning, Bots
+  </td>
+</tr>
+
 </table>
 
 </div>
 
----
 
 <!-- Social Links -->
 
