@@ -112,7 +112,7 @@ I specialize in:
     Social Login, SSO
   </td>
   <td align="center" width="160">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stripe.svg" width="50"/><br/>
+    <img src="./icon/payment.jpg" width="50"/><br/>
     <strong>Stripe / PayPal</strong><br/>
     Payment Integration
   </td>
