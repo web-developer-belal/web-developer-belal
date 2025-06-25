@@ -48,19 +48,19 @@ I’ve also built and published custom Laravel packages that are used across mul
     Hooks, SSR, Tailwind
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"/><br/>
+    <img src="./icon/vue.png" width="50"/><br/>
     <strong>Vue.js</strong><br/>
     SPA, Vite, Axios
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/><br/>
-    <strong>Tailwind CSS</strong><br/>
+    <img src="./icon/tailwind-css-logo-png_seeklogo-434090.png" width="50"/><br/>
+    <strong>Tailwind CSS/Bootstrap</strong><br/>
     Utility-First Styling
   </td>
 </tr>
 <tr>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/><br/>
+    <img src="./icon/databasepng.png" width="50"/><br/>
     <strong>MySQL / MongoDB</strong><br/>
     Schema Design, Indexing
   </td>
@@ -70,12 +70,12 @@ I’ve also built and published custom Laravel packages that are used across mul
     ES6+, Alpine.js
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/YlSR3n5DqT9D1MR3Oa/giphy.gif" width="50"/><br/>
+    <img src="./icon/livewire.png" width="50"/><br/>
     <strong>Livewire</strong><br/>
     Laravel Reactive UIs
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif" width="50"/><br/>
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/><br/>
     <strong>Node.js / Express</strong><br/>
     REST APIs, Server-Side Logic
   </td>
@@ -116,20 +116,27 @@ I’ve also built and published custom Laravel packages that are used across mul
 
 
 <!-- GitHub Stats -->
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=web-developer-belal&show_icons=true&theme=radical" alt="Belal's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=web-developer-belal&theme=radical" alt="Belal's GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=web-developer-belal&show_icons=true&theme=radical" alt="Belal's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=web-developer-belal&theme=radical" alt="Belal's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-developer-belal&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-developer-belal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
