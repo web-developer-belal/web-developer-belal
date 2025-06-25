@@ -48,7 +48,7 @@ I specialize in:
     Laravel Reactive UI
   </td>
   <td align="center" width="160">
-    <img src="./icon/alpinejs-icon.svg" width="50"/><br/>
+    <img src="./icon/alpainjs.jpg" width="50"/><br/>
     <strong>Alpine.js</strong><br/>
     Lightweight JS Components
   </td>
@@ -107,22 +107,22 @@ I specialize in:
 
 <tr>
   <td align="center" width="160">
-    <img src="./icon/oauth.png" width="50"/><br/>
+    <img src="./icon/openid.png" width="50"/><br/>
     <strong>OAuth / OpenID</strong><br/>
     Social Login, API Auth
   </td>
   <td align="center" width="160">
-    <img src="./icon/stripe.svg" width="50"/><br/>
-    <strong>Stripe</strong><br/>
+    <img src="./icon/payment.jpg" width="50"/><br/>
+    <strong>Stripe/Paypal/SSL Commerce/</strong><br/>
     Payment Integration
   </td>
   <td align="center" width="160">
-    <img src="./icon/git.svg" width="50"/><br/>
+    <img src="./icon/github.png" width="50"/><br/>
     <strong>Git / GitHub</strong><br/>
     Version Control
   </td>
   <td align="center" width="160">
-    <img src="./icon/chatgpt-icon.png" width="50"/><br/>
+    <img src="./icon/openai.webp" width="50"/><br/>
     <strong>ChatGPT / OpenAI</strong><br/>
     API, Fine-Tuning, Bots
   </td>
