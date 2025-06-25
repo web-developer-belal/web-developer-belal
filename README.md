@@ -48,7 +48,7 @@ I specialize in:
     Reactive Laravel UIs
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/alpinejs/alpine/master/assets/alpinejs.svg" width="50"/><br/>
+    <img src="./icon/alpainjs.jpg" width="50"/><br/>
     <strong>Alpine.js</strong><br/>
     Lightweight JS Components
   </td>
@@ -112,7 +112,7 @@ I specialize in:
     Social Login, SSO
   </td>
   <td align="center" width="160">
-    <img src="https://www.svgrepo.com/show/331488/stripe.svg" width="50"/><br/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stripe.svg" width="50"/><br/>
     <strong>Stripe / PayPal</strong><br/>
     Payment Integration
   </td>
