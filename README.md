@@ -38,22 +38,22 @@ I specialize in:
 <table>
 <tr>
   <td align="center" width="160">
-    <img src="./icon/laravel-svgrepo-com.svg" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>
     <strong>Laravel</strong><br/>
     REST API, Sanctum, Passport
   </td>
   <td align="center" width="160">
-    <img src="./icon/livewire.png" width="50"/><br/>
-    <strong>Livewire</strong><br/>
-    Laravel Reactive UI
+    <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>
+    <strong>Livewire / PHP</strong><br/>
+    Reactive Laravel UIs
   </td>
   <td align="center" width="160">
-    <img src="./icon/alpainjs.jpg" width="50"/><br/>
+    <img src="https://raw.githubusercontent.com/alpinejs/alpine/master/assets/alpinejs.svg" width="50"/><br/>
     <strong>Alpine.js</strong><br/>
     Lightweight JS Components
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br/>
     <strong>JavaScript</strong><br/>
     ES6+, Async/Await
   </td>
@@ -61,22 +61,22 @@ I specialize in:
 
 <tr>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
     <strong>React.js</strong><br/>
-    Hooks, Components, SPA
+    SPA, Hooks, Routing
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
     <strong>Next.js</strong><br/>
     SSR, API Routes
   </td>
   <td align="center" width="160">
-    <img src="./icon/vue.png" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=vue" width="50"/><br/>
     <strong>Vue.js</strong><br/>
-    Composition API, Pinia
+    SPA, Composition API
   </td>
   <td align="center" width="160">
-    <img src="./icon/tailwind-css-logo-png_seeklogo-434090.png" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>
     <strong>Tailwind CSS</strong><br/>
     Utility-First Styling
   </td>
@@ -84,53 +84,54 @@ I specialize in:
 
 <tr>
   <td align="center" width="160">
-    <img src="./icon/bootstrap.png" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/>
     <strong>Bootstrap</strong><br/>
     Responsive Layouts
   </td>
   <td align="center" width="160">
-    <img src="./icon/mysql.png" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
     <strong>MySQL</strong><br/>
     Joins, Indexing
   </td>
   <td align="center" width="160">
-    <img src="./icon/mongodb.svg" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>
     <strong>MongoDB</strong><br/>
-    Mongoose, Aggregates
+    Aggregates, Mongoose
   </td>
   <td align="center" width="160">
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
     <strong>Node.js / Express</strong><br/>
-    Backend APIs
+    REST APIs, Middleware
   </td>
 </tr>
 
 <tr>
   <td align="center" width="160">
-    <img src="./icon/openid.png" width="50"/><br/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openid.svg" width="40"/><br/>
     <strong>OAuth / OpenID</strong><br/>
-    Social Login, API Auth
+    Social Login, SSO
   </td>
   <td align="center" width="160">
-    <img src="./icon/payment.jpg" width="50"/><br/>
-    <strong>Stripe/Paypal/SSL Commerce/</strong><br/>
+    <img src="https://www.svgrepo.com/show/331488/stripe.svg" width="50"/><br/>
+    <strong>Stripe / PayPal</strong><br/>
     Payment Integration
   </td>
   <td align="center" width="160">
-    <img src="./icon/github.png" width="50"/><br/>
-    <strong>Git / GitHub</strong><br/>
+    <img src="https://skillicons.dev/icons?i=github,git" width="50"/><br/>
+    <strong>Git & GitHub</strong><br/>
     Version Control
   </td>
   <td align="center" width="160">
-    <img src="./icon/openai.webp" width="50"/><br/>
-    <strong>ChatGPT / OpenAI</strong><br/>
-    API, Fine-Tuning, Bots
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40"/><br/>
+    <strong>OpenAI / ChatGPT</strong><br/>
+    API, Fine-Tuning
   </td>
 </tr>
 
 </table>
 
 </div>
+
 
 
 <!-- Social Links -->
